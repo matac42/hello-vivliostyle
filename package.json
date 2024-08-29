@@ -1,0 +1,15 @@
+{
+  "name": "hello",
+  "description": "hello",
+  "version": "0.0.0",
+  "author": "matac42 <42matac@gmail.com>",
+  "scripts": {
+    "build": "vivliostyle build",
+    "preview": "vivliostyle preview"
+  },
+  "dependencies": {
+    "@vivliostyle/cli": "latest"
+  },
+  "license": "MIT",
+  "private": true
+}

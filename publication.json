@@ -1,0 +1,36 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "hello",
+  "author": "matac42 <42matac@gmail.com>",
+  "inLanguage": "ja",
+  "dateModified": "2024-08-29T13:21:43.973Z",
+  "readingOrder": [
+    {
+      "url": "index.html",
+      "name": "初めての本"
+    },
+    {
+      "url": "book.html",
+      "name": "本を背の順に並べる幸せ"
+    },
+    {
+      "url": "spa.html",
+      "name": "平日に温泉に行く幸せ"
+    },
+    {
+      "url": "iidx.html",
+      "name": "Beatmania IIDX"
+    },
+    {
+      "url": "colophon.html",
+      "name": "初めての本"
+    }
+  ],
+  "resources": [],
+  "links": []
+}
